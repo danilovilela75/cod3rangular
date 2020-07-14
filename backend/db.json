@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Caneta BIC Preta",
+      "price": "1.25",
+      "id": 1
+    },
+    {
+      "name": "Notebook MacBook Pro",
+      "price": "12000.89",
+      "id": 2
+    },
+    {
+      "name": "Asus Zenfone 5z",
+      "price": "5000.89",
+      "id": 3
+    }
+  ]
+}
